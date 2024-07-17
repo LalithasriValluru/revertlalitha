@@ -1,0 +1,5 @@
+1. Publish through gradle task:
+- ./gradlew publishFrodo
+2. Upload pom.xml manually (there is an issue with the publishing plugin) and publish on bintray:
+- https://github.com/novoda/bintray-release
+- https://github.com/novoda/bintray-release/issues/19
